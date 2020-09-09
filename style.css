@@ -1,0 +1,24 @@
+body 
+{ background-color : rgb(200,222,211);}
+h1 
+{ color : red;
+font-family : serif;
+font-weight : bold;
+
+}
+
+h3
+{ color : blue;
+font-family : serif;
+font-weight : bold;
+
+}
+
+h2 
+{ color : green;
+font-family : sans-serif;
+font-weight : bold;
+
+}
+p{ background-color : yellow;}
+
