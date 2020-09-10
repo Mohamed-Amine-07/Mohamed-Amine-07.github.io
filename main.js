@@ -1,5 +1,4 @@
 
- alert("Hello! I am an alert box!!");
 
  if (confirm("Hey le site xxxvidsxxx est trop bien. Viens dessus stp please.Va-t-On ? " )) {
 
