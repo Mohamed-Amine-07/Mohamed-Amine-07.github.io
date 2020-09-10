@@ -1,24 +1,28 @@
 body 
-{ background-color : rgb(200,222,211);}
+{ background-color : #EEEEEE;
+font-size : 16px;
+}
 h1 
 { color : red;
 font-family : serif;
 font-weight : bold;
-
+line-height: 1.6;
 }
 
 h3
 { color : blue;
 font-family : serif;
 font-weight : bold;
-
+ line-height: 1.6;
 }
 
 h2 
-{ color : green;
+{ color : rgb(99,200,255);
 font-family : sans-serif;
 font-weight : bold;
-
+line-height: 1.6;
 }
-p{ background-color : yellow;}
+p{ background-color : yellow;
+line-height: 1.4 ;
+}
 
